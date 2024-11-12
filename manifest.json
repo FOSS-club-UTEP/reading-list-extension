@@ -1,12 +1,11 @@
 {
-    "manifest_version": 3,
-    "name": "Reading List",
-    "version": "1.0",
-    "description": "Save the current tab to a reading list.",
-    "permissions": ["storage", "activeTab"],
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": "icon.png"
-    }
-  }
-  
+	"manifest_version": 3,
+	"name": "Reading List",
+	"version": "1.0",
+	"description": "Save the current tab to a reading list.",
+	"permissions": ["storage", "activeTab"],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": "icon.png"
+	}
+}

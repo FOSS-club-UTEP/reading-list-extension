@@ -1,47 +1,46 @@
 #app {
-    font-family: Arial, sans-serif;
-    padding: 10px;
-    width: 500px;
-  }
-  
-  button {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 8px;
-    cursor: pointer;
-    width: 100%;
-    margin-bottom: 10px;
-  }
-  
-  button:hover {
-    background-color: #45a049;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 5px;
-    list-style-type: none;
-    font-size: 1.2em;
-  }
-  
-  a {
-    color: #1a73e8;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  .delete {
-    color: red;
-    cursor: pointer;
-  }
-  
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 500px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  list-style-type: none;
+  font-size: 1.2em;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
